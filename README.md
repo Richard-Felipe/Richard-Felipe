@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Mundo 👋
 
 - 💬 Estou me graduando em Engenharia de Software e estou a procura de uma vaga de Estágio/Trainne/Junior
 - 🔭 Atualmente trabalho como analista de suporte em T.I
