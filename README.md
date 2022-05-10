@@ -6,10 +6,10 @@
 
 ##
 
-<div align="center">
+<div>
   <a href="https://github.com/Richard-Felipe">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Richard-Felipe&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Felipe&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Richard-Felipe&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Felipe&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
   ##
