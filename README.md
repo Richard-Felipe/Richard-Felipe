@@ -1,8 +1,8 @@
 ### Olá! Mundo 👋
 
-- 💬 Estou me graduando em Engenharia de Software e estou a procura de uma vaga de Estágio/Trainne/Junior
-- 🔭 Atualmente trabalho como analista de suporte em T.I
-- 🌱 Estou aprendendo C#/.Net| JavaScript | HTML | CSS | SQL Server
+- 💬 Estou me graduando em Engenharia de Software e estou a procura de uma vaga de desenvolvedor Junior voltado para área de .Net
+- 🔭 Atualmente trabalho como analista de suporte
+- 🌱 Estou desenvolvendo projetos em .Net com foco em APIs e explorando ASP.Net| JavaScript | HTML | CSS | SQL Server
 
 ##
 
